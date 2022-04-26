@@ -1,0 +1,23 @@
+.content {
+    background-color: rgb(255, 0, 251);
+    flex: 4;
+  }
+  .S {
+    width: 100%;
+   /* width: 700px; */
+   height: 300px;
+  }
+  .p {
+      border-radius: 10%;
+      
+  }
+  .item img {
+    width:60px;
+    height: 60px;
+    border-radius: 30px;
+  }
+  .item{
+    display: flex;
+    align-items: center;
+    padding: 4px;
+  }

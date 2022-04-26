@@ -1,0 +1,10 @@
+.user{
+    flex: 3;
+    background-color: rgb(130, 198, 179);
+}
+.photo{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
