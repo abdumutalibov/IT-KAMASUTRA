@@ -8,3 +8,8 @@
     border-radius: 50%;
     object-fit: cover;
 }
+.selectedPage{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 5px;
+}
